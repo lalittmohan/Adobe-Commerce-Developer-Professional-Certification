@@ -55,7 +55,7 @@ Adobe Commerce Developer Professional Certification  [" Adobe Commerce Developer
     3. Describe price rules
     4. Describe price types
 
-# Principais Referências
+# References
 - [Adobe Magento Exam Guide](https://spark.adobe.com/page/WBhc2rZlIxtWC/)
 - [Magento at GitHub](https://github.com/magento/magento2/tree/2.4.3)
 - [Magento DevDocs](https://devdocs.magento.com/)
