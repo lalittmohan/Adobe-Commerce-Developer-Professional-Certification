@@ -61,4 +61,4 @@ Adobe Commerce Developer Professional Certification  [" Adobe Commerce Developer
 - [Magento DevDocs](https://devdocs.magento.com/)
 - [Glossary](https://glossary.magento.com/)
 - [Adobe Commerce (Magento Stack Exchange)](https://magento.stackexchange.com/questions)
-- [Alan Storm Blog](https://alanstorm.com/magento_2_object_manager_instance_objects/)
+- [Alan Storm Blog](https://alanstorm.com/category/magento-2/)
