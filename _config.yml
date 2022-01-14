@@ -110,3 +110,11 @@ menu:
 no_search: false
 accent_image: none
 accent_color: rgb(52,109,115)
+
+## => Plugins
+##############################
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji

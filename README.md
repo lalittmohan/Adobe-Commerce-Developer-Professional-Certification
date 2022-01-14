@@ -1,6 +1,20 @@
-I started my certification journey to plan this way it may help others.
+---
+title: TeXt - Mermaid
+key: 20170606
+tags: TeXt
+mermaid: true
+---
 
-
+```mermaid
+graph TB;
+    A[Do you have a problem in your life?]
+    B[Then don't worry]
+    C[Can you do something about it?]
+    A--no-->B;
+    A--yes-->C;
+    C--no-->B;
+    C--yes-->B;
+```
 Adobe Commerce Developer Professional Certification  ["Adobe Commerce Developer Professional Certification (AD0-E711)"](https://spark.adobe.com/page/saM506xrYKi0p/).
 
 
