@@ -1,4 +1,8 @@
-Adobe Commerce Developer Professional Certification  [" Adobe Commerce Developer Professional Certification (AD0-E711) "](https://spark.adobe.com/page/saM506xrYKi0p/).
+I started my certification journey to plan this way it may help others.
+
+
+Adobe Commerce Developer Professional Certification  ["Adobe Commerce Developer Professional Certification (AD0-E711)"](https://spark.adobe.com/page/saM506xrYKi0p/).
+
 
 ### Information
 [Exam Guide](https://spark.adobe.com/page/WBhc2rZlIxtWC/)
@@ -56,9 +60,12 @@ Adobe Commerce Developer Professional Certification  [" Adobe Commerce Developer
     4. Describe price types
 
 # References
+## Links
 - [Adobe Magento Exam Guide](https://spark.adobe.com/page/WBhc2rZlIxtWC/)
 - [Magento at GitHub](https://github.com/magento/magento2/tree/2.4.3)
 - [Magento DevDocs](https://devdocs.magento.com/)
 - [Glossary](https://glossary.magento.com/)
 - [Adobe Commerce (Magento Stack Exchange)](https://magento.stackexchange.com/questions)
 - [Alan Storm Blog](https://alanstorm.com/category/magento-2/)
+
+## Credits

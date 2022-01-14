@@ -1,0 +1,112 @@
+################################################################################################################
+# Site settings                                                                                             #
+################################################################################################################
+remote_theme: hydecorp/hydejack@v9.0.5
+
+################################################################################################################
+# General settings                                                                                             #
+################################################################################################################
+
+lang: #  default language is en I think it as global may be change later translated branch wise
+title: Adobe Commerce Professional Certification - (0711)
+short_title: Adobe Commerce Professional Certification
+description: Minhas anotações de estudo para a certificação “Adobe Certified Professional Magento Commerce Developer (AD0-E702)”.
+tagline: “Adobe Commerce Developer Professional Certification (AD0-E711)”.
+keywords: [
+  'Magento',
+  'Magento 2',
+  'certification',
+  'certified',
+  'Adobe',
+  'e-commerce',
+  'study-guide'
+  ]
+  
+author:
+  # Used by `jekyll-feed`:
+  name: Lalit Mohan
+  email: lalitmohanwd@gmail.com
+  # # Used by `jekyll-seo-tag`:
+  twitter: lalittmohan
+  github: lalittmohan
+  instagram: lalitmohann
+  linkedin: lalittmohan
+
+  ## => GitHub Repository (if the site is hosted by GitHub)
+  ##############################
+  repository: lalittmohan/adobe-commerce-professional-certification
+  repository_tree: master
+
+## => Markdown Enhancements
+##############################
+## Mathjax
+mathjax: # false (default), true
+mathjax_autoNumber: # false (default), true
+
+## Mermaid
+mermaid: true # false (default), true
+
+## Chart
+chart: # false (default), true
+
+
+## => Paginate
+##############################
+paginate: 8
+paginate_path: /page:num # don't change this unless for special need
+
+
+## => Sources
+##############################
+sources: # bootcdn (default), unpkg
+
+## => Sharing
+##############################
+sharing:
+  provider: false # false (default), "addtoany", "addthis", "custom"
+
+  ## AddThis
+  addthis:
+    id: # AddThis pubid, e.g. ra-5xxxxxxxxxxx
+
+## => Comments
+##############################
+comments:
+  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+
+  ## Disqus
+  disqus:
+    shortname: # the Disqus shortname for the site
+
+## => Paths
+##############################
+paths:
+  root    : # title link url, "/" (default)
+  home    : # home layout url, "/" (default)
+  archive : # "/archive.html" (default)
+  rss     : # "/feed.xml" (default)
+
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  
+# Add links to the sidebar
+menu:
+  - title: 01 - Working with Admin
+    url:   /arquitetura-e-customizacao
+  - title: 02 - Architecture
+    url:   /processamento-do-fluxo-de-requisicao
+  - title: 03 - EAV/Database
+    url:   /personalizando-a-ui
+  - title: 04 - Layout/UI
+    url:   /trabalhando-com-banco-de-dados
+  - title: 05 - Checkout and Sales
+    url:   /desenvolvendo-com-o-adminhtml
+  - title: 06 - Catalog
+    url:   /personalizacao-da-logica-de-negocios
+
+
+no_search: false
+accent_image: none
+accent_color: rgb(52,109,115)
