@@ -1,17 +1,6 @@
 
 Adobe Commerce Developer Professional Certification  ["Adobe Commerce Developer Professional Certification (AD0-E711)"](https://spark.adobe.com/page/saM506xrYKi0p/).
 
-```mermaid
-graph TB;
-    A[Do you have a problem in your life?]
-    B[Then don't worry]
-    C[Can you do something about it?]
-    A--no-->B;
-    A--yes-->C;
-    C--no-->B;
-    C--yes-->B;
-```
-
 ### Information
 [Exam Guide](https://spark.adobe.com/page/WBhc2rZlIxtWC/)
 
