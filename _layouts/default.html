@@ -16,6 +16,13 @@
 <script>
     mermaid.initialize({ startOnLoad: true });
 </script>
+<div class="mermaid">
+    graph LR A --- B B-->C[fa:fa-ban forbidden] B-->D(fa:fa-spinner);
+</div>
+<div class="mermaid">
+    graph TD A[Client] --> B[Load Balancer] B --> C[Server1] B --> D[Server2]
+</div>
+
 <div class="content container">
     {{ content }}
 </div>
