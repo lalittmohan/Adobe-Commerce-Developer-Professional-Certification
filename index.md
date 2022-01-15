@@ -1,3 +1,8 @@
+---
+layout: welcome
+title:  Welcome
+cover:  true
+---
 
 Adobe Commerce Developer Professional Certification  ["Adobe Commerce Developer Professional Certification (AD0-E711)"](https://spark.adobe.com/page/saM506xrYKi0p/).
 
