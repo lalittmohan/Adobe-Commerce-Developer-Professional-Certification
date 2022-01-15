@@ -107,6 +107,8 @@ menu:
     url:   /desenvolvendo-com-o-adminhtml
   - title: 06 - Catalog
     url:   /personalizacao-da-logica-de-negocios
+  - title: test index
+    url: /index
 
 
 no_search: false
