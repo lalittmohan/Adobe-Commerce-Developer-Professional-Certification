@@ -12,6 +12,8 @@ title: Adobe Commerce Professional Certification - (0711)
 short_title: Adobe Commerce Professional Certification
 description: Minhas anotações de estudo para a certificação “Adobe Certified Professional Magento Commerce Developer (AD0-E702)”.
 tagline: “Adobe Commerce Developer Professional Certification (AD0-E711)”.
+url: https://lalittmohan.github.io/adobe-commerce-professional-certification/
+baseurl: /
 keywords: [
   'Magento',
   'Magento 2',
@@ -113,8 +115,8 @@ accent_color: rgb(52,109,115)
 
 ## => Plugins
 ##############################
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jemoji
+##plugins:
+#  - jekyll-feed
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jemoji
