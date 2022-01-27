@@ -10,7 +10,7 @@ remote_theme: hydecorp/hydejack@v9.0.5
 lang: #  default language is en I think it as global may be change later translated branch wise
 title: Adobe Commerce Professional Certification - (0711)
 short_title: Adobe Commerce Professional Certification
-description: Minhas anotações de estudo para a certificação “Adobe Certified Professional Magento Commerce Developer (AD0-E702)”.
+description: Adobe Certified Professional Magento Commerce Developer (AD0-E711).
 tagline: “Adobe Commerce Developer Professional Certification (AD0-E711)”.
 url: https://lalittmohan.github.io/adobe-commerce-professional-certification/
 baseurl: /
@@ -18,9 +18,11 @@ keywords: [
   'Magento',
   'Magento 2',
   'certification',
+  'certification course',
   'certified',
   'Adobe',
-  'e-commerce',
+  'Adobe commerce',
+  'certified',
   'study-guide'
   ]
   
@@ -46,7 +48,7 @@ mathjax: # false (default), true
 mathjax_autoNumber: # false (default), true
 
 ## Mermaid
-mermaid: true # false (default), true
+mermaid: # false (default), true
 
 ## Chart
 chart: # false (default), true
@@ -96,20 +98,17 @@ share-links-active:
 # Add links to the sidebar
 menu:
   - title: 01 - Working with Admin
-    url:   /arquitetura-e-customizacao
+    url:   /working-with-admin
   - title: 02 - Architecture
-    url:   /processamento-do-fluxo-de-requisicao
+    url:   /architecture
   - title: 03 - EAV/Database
-    url:   /personalizando-a-ui
+    url:   /eav-database
   - title: 04 - Layout/UI
-    url:   /trabalhando-com-banco-de-dados
+    url:   /layout-ui
   - title: 05 - Checkout and Sales
-    url:   /desenvolvendo-com-o-adminhtml
+    url:   /checkout-and-sales
   - title: 06 - Catalog
-    url:   /personalizacao-da-logica-de-negocios
-  - title: test index
-    url: /index
-
+    url:   /catalog
 
 no_search: false
 accent_image: none

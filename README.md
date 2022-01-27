@@ -27,7 +27,7 @@ Adobe Commerce Developer Professional Certification  ["Adobe Commerce Developer 
     12. Describe the Magento caching system
     13. Describe stores, websites, and store views (basic understanding)
 
-3. [** EAV/Database**](03-Personalizando-a-UI.md)
+3. [**EAV/Database**](03-Personalizando-a-UI.md)
     1. Given a scenario, change/add/remove attribute sets and/or attributes
     2. Describe different types of attributes
     3. Given a scenario, use a DB schema to alter a database table 
@@ -43,7 +43,7 @@ Adobe Commerce Developer Professional Certification  ["Adobe Commerce Developer 
     6. Describe front-end usage of customer data
 
 5. [**Checkout and Sales**](05-Desenvolvendo-com-o-Adminhtml.md)
-    1. Describe cart components 
+    1. Describe cart components
     2. Describe a cart promo rule
     3. Given a scenario, describe basic checkout modifications
     4. Given a scenario, describe basic usage of quote data
