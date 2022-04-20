@@ -6,13 +6,13 @@ Adobe Commerce Developer Professional Certification  ["Adobe Commerce Developer 
 
 ## TOPICS
 
-1. [**Working with Admin**](01-Arquitetura-e-customizacao.md)
-   1. Describe how the ACL works with roles and resources 
+1. [**Working with Admin**](01-working-with-admin.md)
+   1. [Describe how the ACL works with roles and resources](describe-how-the-ACL-works-with-roles-and-resources.md)
    2. Identify the components to use when creating or modifying the admin grid/form 
    3. Identify the files to use when creating a store/admin config and menu items
 
-2. [**Architecture**](02-Processamento-do-fluxo-de-requisicao.md)
-    1. Describe Magento file structure 
+2. [**Architecture**](02-architecture.md)
+    1. [Describe Magento file structure](describe-Magento-file-structure.md) 
     2. Describe Magento CLI commands 
     3. Describe cron functionality
     4. Given a scenario, describe usage of the di.xml
@@ -26,14 +26,14 @@ Adobe Commerce Developer Professional Certification  ["Adobe Commerce Developer 
     12. Describe the Magento caching system
     13. Describe stores, websites, and store views (basic understanding)
 
-3. [**EAV/Database**](03-Personalizando-a-UI.md)
+3. [**EAV/Database**](03-eav-database.md)
     1. Given a scenario, change/add/remove attribute sets and/or attributes
     2. Describe different types of attributes
     3. Given a scenario, use a DB schema to alter a database table 
     4. Describe models, resource models, and collections
     5. Describe basics of Entity Attribute Value (EAV)
 
-4. [**Layout/UI**](04-Trabalhando-com-banco-de-dados.md)
+4. [**Layout/UI**](04-layout-ui.md)
     1. Describe usage of CMS pages and blocks 
     2. Given a scenario, modify layout
     3. Given a scenario, modify page style
@@ -41,7 +41,7 @@ Adobe Commerce Developer Professional Certification  ["Adobe Commerce Developer 
     5. Given a scenario, work with JavaScript files (basic)
     6. Describe front-end usage of customer data
 
-5. [**Checkout and Sales**](05-Desenvolvendo-com-o-Adminhtml.md)
+5. [**Checkout and Sales**](05-checkout-and-sales.md)
     1. Describe cart components
     2. Describe a cart promo rule
     3. Given a scenario, describe basic checkout modifications
@@ -49,7 +49,7 @@ Adobe Commerce Developer Professional Certification  ["Adobe Commerce Developer 
     5. Given a scenario, configure the payment and shipping methods
     6. Given a scenario, configure tax rules, currencies, cart, and/or checkout
 
-6. [**Catalog**](06-Personalizacao-da-logica-de-negocios.md)
+6. [**Catalog**](06-catalog.md)
     1. Identify the basics of category management and products management
     2. Describe product types
     3. Describe price rules
@@ -62,6 +62,5 @@ Adobe Commerce Developer Professional Certification  ["Adobe Commerce Developer 
 - [Magento DevDocs](https://devdocs.magento.com/)
 - [Glossary](https://glossary.magento.com/)
 - [Adobe Commerce (Magento Stack Exchange)](https://magento.stackexchange.com/questions)
-- [Alan Storm Blog](https://alanstorm.com/category/magento-2/)
 
 ## Credits

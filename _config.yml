@@ -98,17 +98,17 @@ share-links-active:
 # Add links to the sidebar
 menu:
   - title: 01 - Working with Admin
-    url:   /working-with-admin
+    url:   /working-with-admin.md
   - title: 02 - Architecture
-    url:   /architecture
+    url:   /architecture.md
   - title: 03 - EAV/Database
-    url:   /eav-database
+    url:   /eav-database.md
   - title: 04 - Layout/UI
-    url:   /layout-ui
+    url:   /layout-ui.md
   - title: 05 - Checkout and Sales
-    url:   /checkout-and-sales
+    url:   /checkout-and-sales.md
   - title: 06 - Catalog
-    url:   /catalog
+    url:   /catalog.md
 
 no_search: false
 accent_image: none
