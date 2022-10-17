@@ -7,7 +7,6 @@
 **Tables:** 
 
 | authorization_role | authorization_rule |
-| --| --|
 
 **Extensibility:** DI,Plugins
 

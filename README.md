@@ -8,7 +8,7 @@ Adobe Commerce Developer Professional Certification  ["Adobe Commerce Developer 
 
 1. [**Working with Admin**](01-working-with-admin)
    
-   1. [Describe how the ACL works with roles and resources](describe-how-the-ACL-works-with-roles-and-resources)
+   1. [Describe how the ACL works with roles and resources](working-with-admin/describe-how-the-ACL-works-with-roles-and-resources)
    2. Identify the components to use when creating or modifying the admin grid/form
    3. Identify the files to use when creating a store/admin config and menu items
 2. [**Architecture**](02-architecture)
