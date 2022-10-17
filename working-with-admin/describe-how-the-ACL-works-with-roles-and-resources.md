@@ -2,7 +2,6 @@
 
 
 **Module:** Magento_Authorisation
-**Depends**
 
 **Tables:** 
 
