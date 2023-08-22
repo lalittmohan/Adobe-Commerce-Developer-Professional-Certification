@@ -1,0 +1,1 @@
+## Describe Magento file structure

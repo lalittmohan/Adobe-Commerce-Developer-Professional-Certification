@@ -109,6 +109,12 @@ menu:
     url:   /checkout-and-sales
   - title: 06 - Catalog
     url:   /catalog
+  - title: 07 - Adobe Commerce Cloud Architecture
+    url:   /adobe-commerce-cloud-architecture
+  - title: 08 - Setup/Configuring Adobe Commerce Cloud
+    url:   /setup-configuring-commerce-cloud
+  - title: 09 - Commerce-Cloud-Cli-Tool
+    url:   /commerce-cloud-cli-tool
 
 no_search: false
 accent_image: none
